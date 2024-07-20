@@ -560,3 +560,221 @@ line-height: 36px; /* 150% */
 display: flex;
 align-self: stretch;
 }
+.text-news{
+  align-self: stretch;
+  color: var(--Text-Light-Secondary, #637381);
+/* Body2 */
+font-family: "Public Sans";
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+}
+.khung-latest-news-pic-1{
+  display: flex;
+width: 362px;
+padding: 16px 16px 24px 16px;
+flex-direction: column;
+align-items: center;
+gap: 24px;
+border-radius: 24px;
+background: var(--Background-Light-Default, #FFF);
+}
+.khung-latest-news-pic-2{
+  display: flex;
+width: 362px;
+padding: 16px 16px 24px 16px;
+flex-direction: column;
+align-items: center;
+gap: 24px;
+border-radius: 24px;
+background: var(--Background-Light-Default, #FFF);
+}
+.khung-latest-news-pic-3{
+  display: flex;
+width: 362px;
+padding: 16px 16px 24px 16px;
+flex-direction: column;
+align-items: center;
+gap: 24px;
+border-radius: 24px;
+background: var(--Background-Light-Default, #FFF);
+}
+#khung-contact-us{
+  display: flex;
+width: 100%;
+padding: 128px 144px;
+align-items: center;
+gap: 64px;
+}
+.khung-contact-us-phai{
+  display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 24px;
+flex: 1 0 0;
+}
+.khung-contact-us-phai-title{
+  display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 8px;
+align-self: stretch;
+}
+.khung-contact-us-phai{
+  display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 8px;
+align-self: stretch;
+}
+.khung-contact-us-phai-title-1{
+  color: var(--Primary-Main, #6F34FE);
+font-family: "Public Sans";
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 36px; /* 150% */
+}
+.khung-contact-us-phai-title-2{
+  color: var(--Text-Light-Primary, #212B36);
+
+/* H2 */
+font-family: "Public Sans";
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: 64px; /* 133.333% */
+align-self: stretch;
+}
+.khung-contact-us-phai-info-title{
+  color: var(--Text-Light-Secondary, #637381);
+
+/* Body1 */
+font-family: "Public Sans";
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 150% */
+}
+.contact-us-info{
+  color: var(--Text-Light-Primary, #212B36);
+
+/* H5 */
+font-family: "Public Sans";
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px; /* 150% */
+}
+.khung-contact-us-trai{
+  display: flex;
+width: 564px;
+flex-direction: column;
+align-items: flex-start;
+gap: 32px;
+flex-shrink: 0;
+}
+.khung-contact-us-trai-name-email{
+  display: flex;
+align-items: flex-start;
+gap: 24px;
+}
+.form-contact-us{
+  display: flex;
+flex-direction: column;
+align-items: flex-start;
+align-self: stretch;
+border-radius: 8px;
+}
+.name-form{
+  color: var(--Text-Light-Primary, #212B36);
+
+/* Body2 */
+font-family: "Public Sans";
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px; /* 155.556% */
+}
+.khung-contact-us-trai-phone-subject{
+  display: flex;
+align-items: flex-start;
+gap: 24px;
+}
+.form-contact-us-message{
+  width: 100%;
+}
+.submit-button{
+  display: flex;
+padding: 11px 22px;
+justify-content: center;
+align-items: center;
+gap: 8px;
+flex: 1 0 0;
+border-radius: 12px;
+border: 1px solid var(--Secondary-Main, #FCA61E);
+background: var(--Secondary-Main, #FCA61E);
+}
+#footer{
+  display: inline-flex;
+padding-top: 64px;
+flex-direction: column;
+align-items: center;
+gap: 64px;
+background: var(--Primary-Darker, #381A7F);
+width: 100%;
+}
+.khung-logo-your-name{
+  display: flex;
+flex-direction: column;
+align-items: center;
+gap: 38px;
+}
+.khung-logo-title{
+  display: flex;
+flex-direction: column;
+align-items: center;
+gap: 12px;
+}
+.footer-icon{
+  width: 80px;
+height: 80px;
+flex-shrink: 0;
+fill: var(--Primary-Main, #6F34FE);
+}
+.khung-title{
+  color: var(--Text-Dark-Primary, #FFF);
+text-align: center;
+
+/* H3 */
+font-family: "Public Sans";
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: 48px; /* 150% */
+}
+.khung-icon{
+  display: flex;
+align-items: flex-start;
+gap: 32px;
+}
+#end{
+  display: flex;
+width: 1440px;
+padding: 22px 10px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border-top: 1px solid var(--Primary-Main, #6F34FE);
+}
+.copyright{
+  color: var(--Text-Dark-Secondary, #919EAB);
+text-align: center;
+font-family: "Public Sans";
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+}
+
